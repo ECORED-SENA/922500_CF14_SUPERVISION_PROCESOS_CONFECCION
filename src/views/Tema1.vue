@@ -959,7 +959,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Clasificación de hilos
-                  p.mb-0Se sugiere visualizar en el material de apoyo el video video de #[em Clasificación de los hilos] y su respectiva presentación para conocer más sobre los hilos, su clasificación, numeración y titulación.
+                  p.mb-0 Se sugiere visualizar en el material de apoyo el video video de #[em Clasificación de los hilos] y su respectiva presentación para conocer más sobre los hilos, su clasificación, numeración y titulación.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=qUdbl6B18Bg')" target="_blank")
                     span Ver video
