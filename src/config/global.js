@@ -324,12 +324,14 @@ export default {
     {
       referencia:
         'Lockuán Lavado, F. (2012). <em>La industria textil y su control de calidad. III. Hilandería</em> [Ebook].  ',
-      link: 'http://budetex.com/img/textil/III.libro_hilanderia.pdf',
+      link:
+        'https://books.google.com/books/about/III_La_industria_textil_y_su_control_de.html?hl=es&id=nkJZ93e-9-wC#v=onepage&q&f=false',
     },
     {
       referencia:
         'Lockuán Lavado, F. (2012). <em>La industria textil y su control de calidad. IV. Tejeduría</em> [Ebook]. ',
-      link: 'http://budetex.com/img/textil/IV.libro_tejeduria.pdf',
+      link:
+        'https://books.google.com/books/about/IV_La_industria_textil_y_su_control_de_c.html?hl=es&id=lmHP7oAunq8C#v=onepage&q&f=false',
     },
     {
       referencia:

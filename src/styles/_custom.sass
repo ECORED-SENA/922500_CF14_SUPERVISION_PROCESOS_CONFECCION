@@ -36,7 +36,14 @@
   background-image: url('../assets/curso/temas/mini-portada.png') !important
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $white
-
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
 
 .fondo-slider
   background: url('../assets/curso/temas/tema2/fondo-slider.png')
@@ -167,7 +174,8 @@
   background-color: #F8C2CD
 .bg-6
   background-color: #FCE5E9
-
+.bg-7
+  background-color:#FFD3DB
 
 .subt
   background-color: #9B1F36
@@ -188,6 +196,8 @@
 
 .col-w12
   width: 12%
+  @media (max-width: 992px)
+    width: 16%
 .col-w18
   width: 18%
 .col-w40
@@ -225,6 +235,8 @@
   border-color: #FF6E33
 .slyder-a__bullets__item 
   background-color: #E7C9B5
+  @media (max-width: 992px)
+    margin: 0 7px
 .tabs-a__tab
   background-color: #F6F6F6
 .tabs-a.color-primario .tabs-a__tab__selected
@@ -233,9 +245,9 @@
   background-color: #FFE2D6
 .tabs-a.color-primario .tabs-a__tab:hover, .tabs-a.color-primario .tabs-a__tab:active, .tabs-a.color-primario .tabs-a__tab:focus
   background-color: #FFE2D6
-.img-infografica.color-secundario.tema-1 .img-infografica__item__dot:before, 
-.img-infografica.color-secundario.tema-1 .img-infografica__item__dot:after
-  background-color: transparent
+//.img-infografica.color-secundario.tema-1 .img-infografica__item__dot:before, 
+//.img-infografica.color-secundario.tema-1 .img-infografica__item__dot:after
+  //background-color: transparent
 .img-infografica.color-secundario.tema-2 .img-infografica__item__dot:before, 
 .img-infografica.color-secundario.tema-2 .img-infografica__item__dot:after
   background-color: transparent
@@ -257,8 +269,13 @@
 
 .img-infografica.color-secundario .img-infografica__item__numero
   color: #12263F
-  font-size: 30px
   font-weight: bold
+.img-infografica.color-secundario.tema-1 .img-infografica__item__numero
+  font-size: 20px
+.img-infografica.color-secundario.tema-2 .img-infografica__item__numero
+  font-size: 25px
+.tema-1 .img-infografica__item
+  width: 4%
 .img-infografica-b__modal 
   background-color: #FCE5E9
 .img-infografica-b__modal__contenido div > *, .img-infografica-b__modal__btn-cerrar i 
