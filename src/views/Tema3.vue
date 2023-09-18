@@ -11,7 +11,7 @@
     .row.mb-3.justify-content-center
       .col-lg-6.mb-4(data-aos="fade-right")
         p Los materiales textiles son la base de la moda y elegir los materiales adecuados es la clave del éxito del proyecto. Comprender su composición es importante para anticipar su comportamiento durante el procesamiento y garantizar la idoneidad de su elección en función de su diseño y propósito. 
-        p De igual forma, comprender la composición de una fibra es la base de su utilidad. Con la composición se logra identificar su comportamiento al ser manipuladas; la combustión es el proceso más común para la identificación de cada componente
+        p De igual forma, comprender la composición de una fibra es la base de su utilidad. Con la composición se logra identificar su comportamiento al ser manipuladas; la combustión es el proceso más común para la identificación de cada componente.
       .col-lg-6.col-md-9.justify-content-center.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema3/img.png' alt='')
     
@@ -169,7 +169,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 5. Ejemplo 01 - ficha tecnica
+                      h3.mb-0 Imagen 5. Ejemplo 01 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal1 = true")
                         span Ver imagen
@@ -183,7 +183,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 6. Ejemplo 02 - ficha tecnica
+                      h3.mb-0 Imagen 6. Ejemplo 02 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal2 = true")
                         span Ver imagen
@@ -198,7 +198,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 7. Ejemplo 03 - ficha tecnica
+                      h3.mb-0 Imagen 7. Ejemplo 03 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal3 = true")
                         span Ver imagen

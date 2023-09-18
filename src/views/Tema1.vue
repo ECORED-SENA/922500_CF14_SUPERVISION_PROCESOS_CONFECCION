@@ -146,7 +146,7 @@
                 span.mb-0 Seda generada por #[b #[em bombyx mori]], más conocido como gusano de seda, su proceso fue originado en la India, China y Japón hace más de dos mil años, lugares donde aún es principalmente producida. 
               li.mb-0
                 i.fas.fa-tshirt
-                span.mb-0 Seda generada por #[b #[em tusor]] o #[b #[em tusasah]], producida por el gusano Yama Mayu del país de Japón; este capullo a diferencia del Bombyx mori, es verde. Fue conocido por el mundo hacia el año 1860 y era de uso exclusivo por la familia imperial. 
+                span.mb-0 Seda generada por #[b #[em tusor]] o #[b #[em tusasah]], producida por el gusano Yama Mayu del país de Japón; este capullo a diferencia del #[em Bombyx mori], es verde. Fue conocido por el mundo hacia el año 1860 y era de uso exclusivo por la familia imperial. 
             p La seda se caracteriza por ser brillante, suave, lisa, elástica, además retiene entre un 40 a 45% de su peso de agua, lo que determina su caída y frescura y suavidad. Tampoco se ve afectada por insectos que puedan dañarla a diferencia de otros textiles.    
           .col-lg-3.col-md-6.col-10.mb-4.mb-md-0
             img(src='@/assets/curso/temas/tema1/tab-img1.png', alt='')
