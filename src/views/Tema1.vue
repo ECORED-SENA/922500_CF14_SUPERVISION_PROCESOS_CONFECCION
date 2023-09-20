@@ -27,7 +27,7 @@
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 1.]  Fibra de algodón sección longitudinal
             figure
-              img(src="@/assets/curso/temas/tema1/fig.png", alt=" Fibra de algodón sección longitudinal")
+              img(src="@/assets/curso/temas/tema1/fig.png", alt="Ilustración de las partes de una fibra desde un corte longitudinal. Estas son el lumen , la pared primaria, secundaria y cutícula.")
               figcaption.mt-3 
                 p.mb-0 Nota. Tomado de Repositorio Digital Universidad Técnica del Norte (s.f.).
 
@@ -182,7 +182,7 @@
         ul.lista-ul--color.color-primario.fa-ul
           li.mb-0
             i.fas.fa-tshirt
-            span.mb-0 #[b Higroscopicidad:] retención del agua entre 40 a 45% de su peso, el agua no es adherida a la superficie, sino que se introduce en la fibra, lo cual genera mayor retención y esto ocasiona que cueste secarse, cuando esta se encuentra seca al aire, puede llegar a contener entre el 10 y 15% de agua. 
+            span.mb-0 #[b Higroscopicidad:] retención del agua entre 40 a 45 % de su peso, el agua no es adherida a la superficie, sino que se introduce en la fibra, lo cual genera mayor retención y esto ocasiona que cueste secarse, cuando esta se encuentra seca al aire, puede llegar a contener entre el 10 y 15 % de agua. 
           li.mb-0
             i.fas.fa-tshirt
             span.mb-0 #[b Aislante térmico:] dificulta la conducción térmica, lo que genera que sea abrigadora.
@@ -213,8 +213,10 @@
           h5 Sumado a esto, se pueden extraer los siguientes tipos de lana:
 
           .col-lg-7
+            .titulo-sexto.color-acento-contenido
+              p.mb-0 #[b Figura 2.] Tipos de lana
             figure
-              img(src='@/assets/curso/temas/tema1/fig.svg', alt='Tipos de lana')
+              img(src='@/assets/curso/temas/tema1/fig.svg', alt='Presentación de los seis tipos de lana de fibra animal.')
 
 
     h4.t-red(data-aos="fade") Fibras de origen vegetal
@@ -371,7 +373,7 @@
           img(src='@/assets/curso/temas/tema1/pest-img2.png', alt='')
       .row.border-bottom-orange.bg-3.p-4(titulo="Acetato")
         .col-md-7
-          p De aspecto brillante, similar al de la seda.  Cuando su fibra es transformada para usos textiles, posee características como apariencia consistente, buena caída y no se arruga, es elástico y retiene entre un 20% a 25% de su peso en agua. Cuando se quema genera olor a vinagre, quedando como residuo gotas que pueden producir quemaduras al tacto con la piel. 
+          p De aspecto brillante, similar al de la seda.  Cuando su fibra es transformada para usos textiles, posee características como apariencia consistente, buena caída y no se arruga, es elástico y retiene entre un 20 % a 25 % de su peso en agua. Cuando se quema genera olor a vinagre, quedando como residuo gotas que pueden producir quemaduras al tacto con la piel. 
         .col-md-5
           img(src='@/assets/curso/temas/tema1/pest-img3.png', alt='')
       .row.border-bottom-orange.bg-3.p-4(titulo="Triacetato")
@@ -966,7 +968,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Clasificación de hilos
-                  p.mb-0 Se sugiere visualizar en el material de apoyo el video video de #[em Clasificación de los hilos] y su respectiva presentación para conocer más sobre los hilos, su clasificación, numeración y titulación.
+                  p.mb-0 Se sugiere visualizar en el material de apoyo el video de #[em Clasificación de los hilos] y su respectiva presentación para conocer más sobre los hilos, su clasificación, numeración y titulación.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=qUdbl6B18Bg')" target="_blank")
                     span Ver video

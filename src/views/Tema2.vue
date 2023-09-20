@@ -37,7 +37,7 @@
               tr
                 td Espina / Espiga 
               tr
-                td Sarga interrumpida (Broken Twill) 
+                td Sarga interrumpida (#[i Broken Twill]) 
               tr
                 td Otros ligamentos 
                 td Dobby, Jacquard, Riso, afelpados etc 
@@ -46,10 +46,10 @@
                 td(rowspan="2") Por trama
                 td Sencillo (Jersey, Lacoste) 
               tr
-                td Doble (Rib o resortado, interlock, piqué)  
+                td Doble (#[i Rib] o resortado, #[i interlock], piqué)  
               tr
                 td(rowspan="2") Por urdimbre
-                td Tricot 
+                td #[i Tricot] 
               tr
                 td Raschell   
               tr
@@ -127,7 +127,7 @@
       .col-lg-8(data-aos="fade-down")
         .bg-1.p-4
           .titulo-sexto.color-acento-contenido
-            p.mb-0 #[b Figura 2.]  Clasificación visual de los tejidos
+            p.mb-0 #[b Figura 3.]  Clasificación visual de los tejidos
           figure
             img.px-md-4(src="@/assets/curso/temas/tema2/fig.png", alt="Clasificación visual de los tejidos")
             figcaption.mt-3 
@@ -227,9 +227,9 @@
           .col-lg-8.mb-5(data-aos="fade-down")
             .bg-1.p-4
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 3.]  Color de las telas
+                p.mb-0 #[b Figura 4.]  Color de las telas
               figure
-                img(src="@/assets/curso/temas/tema2/fig2.png", alt="Color de las telas")
+                img(src="@/assets/curso/temas/tema2/fig2.png", alt="Fotografías de ejemplos de los tipos de color de tela de acuerdo al proceso aplicado.")
                 figcaption.mt-3 
                   p.mb-0 Nota. Tomado de SENA (s.f.).
 
@@ -291,11 +291,11 @@
             ul.lista-ul--color.color-primario.fa-ul
               li.mb-1
                 i.fas.fa-tshirt
-                | Stretch confort: tejidos con un 2% a 5% de fibra de Spandex, proporciona una compresión suave.
+                | Stretch confort: tejidos con un 2 % a 5 % de fibra de Spandex, proporciona una compresión suave.
               li.mb-1
                 i.fas.fa-tshirt
-                | Stretch fuerte: contiene un 14% a 20% de fibra de Spandex. proporciona una compresión continua que resta silueta al cuerpo.
-            p Los textiles más reconocidos son: Punto canalé, Pana stretch, Power lycra, Punto de algodón Stretch, Doble punto y Power Net.
+                | Stretch fuerte: contiene un 14 % a 20 % de fibra de Spandex. proporciona una compresión continua que resta silueta al cuerpo.
+            p Los textiles más reconocidos son: Punto canalé, Pana #[em stretch], #[em Power lycra], Punto de algodón #[em Stretch], Doble punto y #[em Power Net].
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/tab-img4.png', alt='')
@@ -511,7 +511,7 @@
             .col.ps-md-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-0 Anexo 8. Defecto propio de la tejeduria calada
+                  h3.mb-0 Defecto propio de la tejeduria calada
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo-8_Defecto_propio_tejeduria_calada.pdf')" target="_blank")
                     span Descargar
@@ -525,7 +525,7 @@
             .col.ps-md-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-0 Anexo 9. Defectos propios de la tejeduría de punto
+                  h3.mb-0 Defectos propios de la tejeduría de punto
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo-9_Defectos_propios_tejeduria_punto.pdf')" target="_blank")
                     span Descargar
@@ -548,14 +548,14 @@
 
 
     h4.t-red(data-aos="fade") Identificación de defectos
-    h5.mb-md-5.mb-4(data-aos="fade") Para identificar los defectos puede utilizarse un listado que permita su ubicación y así mismo definir un nivel de importancia en función de la posición en la que se encuentra el defecto, el nivel de importancia se establece en: critico, mayor o menor, tal como se presenta a continuación.
+    h5.mb-md-5.mb-4(data-aos="fade") Para identificar los defectos puede utilizarse un listado que permita su ubicación y así mismo definir un nivel de importancia en función de la posición en la que se encuentra el defecto, el nivel de importancia se establece en: crítico, mayor o menor, tal como se presenta a continuación.
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 4.] Identificación de defectos de tejido 
+          p.mb-0 #[b Figura 5.] Identificación de defectos de tejido 
         figure
-          img.px-md-4(src="@/assets/curso/temas/tema2/fig3.png", alt="Identificación de defectos de tejido")
+          img.px-md-4(src="@/assets/curso/temas/tema2/fig3.png", alt="Ejemplo de una lista de chequeo en la que se identifican los defectos de un tejido.")
           figcaption.mt-3 
             p.mb-0 Nota. Adaptado de Sampedia. (2019)
 
