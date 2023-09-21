@@ -394,12 +394,14 @@ export default {
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Centro Regional Antioquia',
+          centro:
+            'Regional Antioquia - Centro de Formación Diseño, Confección y Moda',
         },
         {
           nombre: 'Ledy Johana Velásquez Hernández',
           cargo: 'Experta temática',
-          centro: 'Centro Regional Antioquia',
+          centro:
+            'Regional Antioquia - Centro de Formación Diseño, Confección y Moda',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
