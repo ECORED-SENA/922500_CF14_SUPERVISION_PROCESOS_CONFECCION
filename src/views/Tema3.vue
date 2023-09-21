@@ -169,7 +169,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 5. Ejemplo 01 - ficha técnica
+                      h3.mb-0 Ejemplo 01 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal1 = true")
                         span Ver imagen
@@ -183,7 +183,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 6. Ejemplo 02 - ficha técnica
+                      h3.mb-0 Ejemplo 02 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal2 = true")
                         span Ver imagen
@@ -198,7 +198,7 @@
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-0 Imagen 7. Ejemplo 03 - ficha técnica
+                      h3.mb-0 Ejemplo 03 - ficha técnica
                     .col-sm-auto
                       a.boton.color-acento-botones(@click="modal3 = true")
                         span Ver imagen
