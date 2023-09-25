@@ -176,7 +176,7 @@
         .row.justify-content-center
           .col-lg-5
             h5 Triaxilaes
-            p Está construida por tres series de hilos cruzados en ángulos de 60%. Son muy resistentes dado que siempre hay una serie de hilos que soportan el esfuerzo. 
+            p Está construida por tres series de hilos cruzados en ángulos de 60 %. Son muy resistentes dado que siempre hay una serie de hilos que soportan el esfuerzo. 
           .col-lg-5.col-md-8
             img(src='@/assets/curso/temas/tema2/slide2-img6.png' alt='Tejidos')     
 
@@ -342,7 +342,7 @@
                         i.fas.fa-video
 
           h4.t-red(data-aos="fade") Entretelas más utilizadas
-          h5.mb-md-5.mb-4(data-aos="fade") A continuación, se amplían exponen las entretelas más utilizadas que se pueden encontrar en el mercado.
+          h5.mb-md-5.mb-4(data-aos="fade") A continuación, se exponen las entretelas más utilizadas que se pueden encontrar en el mercado.
 
           .col-lg-10(data-aos="fade-down") 
             ImagenInfografica.color-secundario.tema-2.mb-5
@@ -377,7 +377,7 @@
                 p.mb-0 Está hecho de algodón o lana o ambos, entrelazados con el pelo de diferentes animales. También se usa para plastrón. Dado que es suave al tacto, se coloca en la posición más cercana al cuerpo.
               .tarjeta.bg-blue3.p-3(x="26.5%" y="25%" numero="9")
                 h5.mb-0 Percalina
-                p.mb-0 Su composición es 100% algodón, y su función principal es el endurecimiento. Hay fijación por calor o cosido, trama cerrada o trama abierta. Se utilizan como entretela de base para el frente y diferentes partes.
+                p.mb-0 Su composición es 100 % algodón, y su función principal es el endurecimiento. Hay fijación por calor o cosido, trama cerrada o trama abierta. Se utilizan como entretela de base para el frente y diferentes partes.
               .tarjeta.bg-blue3.p-3(x="36.5%" y="6.5%" numero="10")
                 h5.mb-0 Beta de algodón
                 p.mb-0 Cinta de algodón termosellada con un ancho de aproximadamente 3 a 5 mm. Se utiliza en los bordes de determinadas costuras que necesitan ser reforzadas durante la fabricación.

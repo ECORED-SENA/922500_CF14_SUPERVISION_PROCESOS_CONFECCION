@@ -240,7 +240,7 @@
               li.mb-0
                 i.fas.fa-tshirt
                 span.mb-0 #[b Egipto y resto de África:] de fibras largas, suaves, muy blancas contempladas como de la mejor calidad que las dos anteriores.
-            p Se caracteriza por retener entre el 45 al 50% de su peso en agua, es un material fresco y confortable, aunque se arruga con facilidad, por lo que brinda frescura si el cuerpo lo requiere o abrigo. Es resistente a las lejías, pero no a los ácidos. Es fácilmente permeable en los procesos de tinturado, aunque tiende a encoger en ocasiones. Ante procesos de combustión, arde fácilmente y huele a papel quemado.
+            p Se caracteriza por retener entre el 45 % al 50 % de su peso en agua, es un material fresco y confortable, aunque se arruga con facilidad, por lo que brinda frescura si el cuerpo lo requiere o abrigo. Es resistente a las lejías, pero no a los ácidos. Es fácilmente permeable en los procesos de tinturado, aunque tiende a encoger en ocasiones. Ante procesos de combustión, arde fácilmente y huele a papel quemado.
         .row.justify-content-center(titulo="Capoc o Kapok")
           .col-lg-5.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/temas/tema1/linea-img2.png', alt='')        
@@ -254,7 +254,7 @@
           .col-lg-6
             h5 El lino
             p Pertenece a la familia de las lináceas herbáceas, también considerada una de las primeras fibras que el hombre abstrajo y produjo para indumentaria en el periodo Neolítico. Con el pasar del tiempo cobra especial relevancia dadas sus características en la confección de ropa exterior e interior, ropa de cama, toallas, entre otros; es al igual que el algodón muy usado en épocas de verano. 
-            p Se caracteriza por ser una fibra cuya longitud llega a ser entre 20 y 40 cm, permitiendo una hilatura fina. Es lisa, resistente, rígida y se arruga fácilmente. Es un material fresco, absorbe y retienen el agua entre el 50 y 60% de su peso. En procesos de tinturado es permeable y propicio para la estampación.
+            p Se caracteriza por ser una fibra cuya longitud llega a ser entre 20 cm y 40 cm, permitiendo una hilatura fina. Es lisa, resistente, rígida y se arruga fácilmente. Es un material fresco, absorbe y retienen el agua entre el 50 % y 60 % de su peso. En procesos de tinturado es permeable y propicio para la estampación.
         .row.justify-content-center(titulo="El cáñamo")
           .col-lg-5.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/temas/tema1/linea-img4.png', alt='')        
@@ -933,7 +933,7 @@
             .col-md-11
               p Sistema originado principalmente en Reino Unido, este asigna un título que permita identificar lo fino de un hilado de estambre de lana.  Se contempla dentro del sistema indirecto, dado que, a mayor valor, menor es el diámetro de una fibra, señalando así que es más fina y su calidad es mayor. Suele emplearse para fibras de mohair y alpaca.  
               p.mb-0 A continuación, se muestra un ejemplo:
-              p Hilados de lana en un 100% australiana, los títulos son 29S a 54S. 
+              p Hilados de lana en un 100 % australiana, los títulos son 29S a 54S. 
       .col-lg-4.col-md-8.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img12.png' alt='')
 

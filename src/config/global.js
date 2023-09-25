@@ -226,7 +226,7 @@ export default {
       descarga: '/downloads/Anexo-6_Identificacion_de_fibras.pdf',
     },
     {
-      tema: 'Análisis de laboratorio y fichas técnicass',
+      tema: 'Análisis de laboratorio y fichas técnicas',
       referencia:
         'Coats Group (2021) Epic. Hoja de información de información del producto. ',
       tipo: 'PDF',

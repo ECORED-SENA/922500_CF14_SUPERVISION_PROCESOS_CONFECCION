@@ -124,7 +124,7 @@
                   span.mb-0 #[b Referencia:] el número consecutivo o asignado.
                 li.mb-1
                   i.fas.fa-tshirt
-                  span.mb-0 #[b Composición:] según las fibras que contiene, por ejemplo: 40% algodón – 50% poliéster.
+                  span.mb-0 #[b Composición:] según las fibras que contiene, por ejemplo: 40 % algodón – 50 % poliéster.
                 li.mb-1
                   i.fas.fa-tshirt
                   span.mb-0 #[b Ancho:] el máximo acabado.
